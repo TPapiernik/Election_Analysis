@@ -1,3 +1,10 @@
+# USER-SPECIFIC
+..gitignore.un~
+.gitignore~
+.README.md.un~
+README.md~
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
