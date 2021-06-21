@@ -3,6 +3,7 @@
 .gitignore~
 .README.md.un~
 README.md~
+*.swp
 
 
 # Byte-compiled / optimized / DLL files
